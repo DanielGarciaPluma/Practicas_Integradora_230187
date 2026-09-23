@@ -2,7 +2,7 @@
 
 [Abrir diagrama interactivo](https://danielgarciapluma.github.io/Practicas_Integradora_230187/Practica_02/architecture/mobile-platform-architecture.html)
 
-[![Vista previa del diagrama](/Practica_02/evidence/imagneEvidencia.png)](https://danielgarciapluma.github.io/Practicas_Integradora_230187/Practica_02/architecture/mobile-platform-architecture.html)
+[![Vista previa del diagrama](/Practica_02/evidence/Evidencia_Arquitectura.png)](https://danielgarciapluma.github.io/Practicas_Integradora_230187/Practica_02/architecture/mobile-platform-architecture.html)
 
 ## Descripción — Arquitectura de la Plataforma Móvil Flutter
 
