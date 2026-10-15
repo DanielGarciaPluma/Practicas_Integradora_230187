@@ -19,8 +19,8 @@ Este repositorio contiene las prácticas desarrolladas durante la materia de **I
 |---|------------------------|--------------|--------|---------|
 | 01  | Metodologia de Evaluacion de la Materia | Revisión de la forma en que se evaluará la materia durante el cuatrimestre. |     05      | Completada ✅ |
 | 02|[Práctica02 - Boceto de Arquitectura con Archify](/Practica_02/Readme.md) | Instalación y configuración de Archify (agente de modelado arquitectónico) con interacción con Codex de OpenAI. Se generó un diagrama de arquitectura interactivo en HTML del sistema, incluyendo capa móvil, autenticación, API, datos, servicios externos e infraestructura de desarrollo. | 24 | Completada ✅ |
-|03|[Practica03 - Boceto de Modelo Canvas con Archify](/Practica_03/Readme.md)|El estudiantes realizara un prompt para solicitar el modelo bussiness canvas para una herramienta multiplataforma que exista o use en su vida cotidianda.|10|Activa 🟠|
-| 6. | [Diagrama de Secuencia de Pantallas (Sketches)](/Practica_06/Readme.md) | Elaboración de un diagrama de secuencia de pantallas para Whatsapp. | Por definir | Concluida |
+|03|[Practica03 - Boceto de Modelo Canvas con Archify](/Practica_03/Readme.md)|El estudiantes realizara un prompt para solicitar el modelo bussiness canvas para una herramienta multiplataforma que exista o use en su vida cotidianda.|10|Completada ✅|
+| 6. | [Diagrama de Secuencia de Pantallas (Sketches)](/Practica_06/Readme.md) | Elaboración de un diagrama de secuencia de pantallas para Whatsapp. | 20 | Completada ✅ |
 
 
 ### Autor
