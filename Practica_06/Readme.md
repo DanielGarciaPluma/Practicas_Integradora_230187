@@ -2,12 +2,25 @@
 
 ## Descripción
 
-Este proyecto presenta en un solo archivo HTML una demostración interactiva del flujo de pantallas de dos aplicaciones de mensajería:
+Esta práctica presenta un diagrama de secuencia de pantallas (*sketches*) para representar el flujo de navegación de una aplicación móvil inspirada en WhatsApp. El proyecto reúne en un solo archivo HTML dos variantes independientes: WhatsApp normal y WhatsApp Business.
 
-- **WhatsApp normal:** orientado a la comunicación personal.
-- **WhatsApp Business:** orientado a la atención de clientes y a la actividad comercial.
+El propósito es visualizar las pantallas principales de cada variante y comprender cómo una persona usuaria avanza de una pantalla a otra para realizar acciones comunes.
 
-El archivo incluye bocetos de pantallas y elementos interactivos para explorar los flujos de navegación de ambas versiones.
+## 2. Objetivo
+
+Diseñar y representar, mediante bocetos de baja fidelidad y un diagrama de secuencia, la navegación entre las pantallas principales de WhatsApp normal y WhatsApp Business.
+
+## 3. Alcance de la práctica
+
+La página permite seleccionar una de las dos variantes y explorar sus pantallas, transiciones y acciones representadas. La finalidad es académica y visual; no es una aplicación oficial de WhatsApp ni se conecta con sus servicios reales.
+
+### WhatsApp normal
+
+Se representan flujos relacionados con la configuración inicial y la mensajería personal, como la bienvenida, el registro o verificación del número, la lista de chats, la selección de contactos, la conversación y la recepción de mensajes.
+
+### WhatsApp Business
+
+Se representan flujos orientados a la comunicación comercial, como el perfil del negocio, el catálogo de productos, las conversaciones con clientes, las respuestas rápidas, las etiquetas y las herramientas de actividad.
 
 ## Archivo principal
 
